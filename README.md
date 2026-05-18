@@ -66,7 +66,3 @@ This project helped me learn:
 - How to work with web scraping
 - How to use AI in Python
 - How to build a small Python project
-
-## Author
-
-Created by Aryan
